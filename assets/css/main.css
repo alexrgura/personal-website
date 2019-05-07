@@ -1735,7 +1735,15 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
+			min-height: 10em;
+			max-width: 12em;
+			width: 100%;
+			margin: 0 0 2em 0;
+		}
+		.image.featured2 {
+			display: block;
 			min-height: 17em;
+			
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
